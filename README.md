@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](hateGirl.d3.html) and ![Image](src)
+[Link](https://github.com/jenyiyu/hateGirl/blob/master/hateGirl.d3.html) and ![Image](src)
 
 ```
 
