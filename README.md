@@ -1,8 +1,8 @@
-# "hateGirl?" text mining posts on Taiwanese online forum PTT.
+# "hateGirl?" 
 
 * [Text search system](https://jenyiyu.shinyapps.io/TextAnalyze/) cooperated with [Ji-Lung hsieh](https://jirlong.github.io/)
-* [Interactive term co-occurrence network of selected terms](hateGirl.d3.html)
-* [Interactive term co-occurrence network of automatic retrieved terms](hateGirl.watched.d3.html)
+* [hateGirl.d3.html](hateGirl.d3.html): Interactive term co-occurrence network of selected terms
+* [hateGirl.watched.d3.html](hateGirl.watched.d3.html): Interactive term co-occurrence network of automatic retrieved terms
 * [Code by R notebook]()
 
 # Contact
